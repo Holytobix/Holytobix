@@ -36,7 +36,7 @@ All these projects are yet private but will be published as soon as they are rea
     <tr>
         <td >
             <p style="font-weight: bold">Desktop PC</p>
-            <p>Dual Boot: Ubuntu and Windows</p>
+            <p>Dual Boot: Ubuntu</p>
             <p>CPU: Ryzen 7 7700X</p>
             <p>GPU: AMD Radeon RX 7800 XT</p>
             <p>RAM: 32GB</p>
